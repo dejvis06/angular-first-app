@@ -1,2 +1,3 @@
 # angular-first-app
-Angular tutorials
+
+Angular tutorials from the [official website](https://angular.io/)
